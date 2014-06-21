@@ -1,0 +1,58 @@
+#artwork
+{
+	position:relative;
+	margin-left:150px;
+	height:1430px;
+	width:1850px;
+	background-image:url('backgroundpapercolor.png');
+}
+
+#posts
+{
+position:absolute;
+	top:250px;
+	left:690px;
+}
+img
+{
+float:right;
+	margin-right:570px;
+	width:150px;
+	height:150px;
+	z-index:10;
+	clear:both;
+
+}
+#title
+{
+	position:absolute;
+	top:-100px;
+	left:660px;
+	float:right;
+	z-index:2;
+	font-size:108px;
+}
+#login_div
+{
+	margin-top:300px;
+	float:left;
+	width:300px;
+	margin-left:700px;
+}
+
+#register_div
+{
+	float:left;
+	width:400px;
+	margin-left:700px;
+
+}
+
+@font-face {
+	font-family: Shojumaru-Regular;
+	src: url('Shojumaru-Regular.ttf');
+}
+.japan_write
+{
+	font-family: Shojumaru-Regular;
+}
